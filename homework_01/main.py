@@ -10,8 +10,7 @@ def power_numbers(*items):
     и возвращает список квадратов этих чисел
     >>> power_numbers(1, 2, 5, 7)
     <<< [1, 4, 25, 49]
-    """
-    
+    """    
     return [ item*item for item in items ]
 
 
