@@ -1,4 +1,4 @@
 ##### Python practice
 
 Homework done to practice **Python**
-Created by *Konstantin Kartashov*
+Created by *Konstantin Kartashov*# homework
